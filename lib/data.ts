@@ -98,10 +98,10 @@ export const skillsData = [
   "MongoDB",
   "Redux",
   "Firebase",
-  "MongoDB",
+  "Cloudinary",
   "Express",
   "PostgreSQL",
   "Python",
-  "Docker",
+  "Postman",
   "Framer Motion",
 ] as const;
